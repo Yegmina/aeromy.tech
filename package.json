@@ -1,0 +1,27 @@
+{
+  "name": "aeromy-investment-website",
+  "version": "1.0.0",
+  "description": "Investment landing page for Aeromy - Autonomous Solar-Powered UAV Technology",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "aeromy",
+    "uav",
+    "drone",
+    "solar",
+    "autonomous",
+    "investment",
+    "aerospace",
+    "technology"
+  ],
+  "author": "Aeromy Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/aeromy-investment-website.git"
+  },
+  "homepage": "https://aeromy.tech"
+}
